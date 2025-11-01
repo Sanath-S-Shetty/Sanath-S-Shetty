@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter<br>👯 I’m looking to collaborate on java related projects<br>🌱 I’m currently learning java spring boot<br>💬 Ask me about anything
+🔭 I’m currently working on openCV<br>👯 I’m looking to collaborate on ML related projects<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
